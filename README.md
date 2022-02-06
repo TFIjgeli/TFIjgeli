@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming & Gaming 
 - 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me jlgeli@techfactors.com & https://github.com/jlgelii
+- 📫 How to reach me jlgeli@techfactors.com
 
 
 <div>
